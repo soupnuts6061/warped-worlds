@@ -104,7 +104,7 @@ UNUSED static const u64 binid_23 = 23;
 #include "bookstack/model.inc.c"
 #include "crewmate/model.inc.c"
 #include "prince_bobomb2/model.inc.c"
-#include "heart/model.inc.c"
+//#include "heart/model.inc.c"
 #include "evilheart/model.inc.c"
 #include "heart_clockhand/model.inc.c"
 #include "waterbed/model.inc.c"
